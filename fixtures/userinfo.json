@@ -1,0 +1,25 @@
+[
+    {
+        "username": "standard_user",
+        "password": "secret_sauce",
+        "message": ""
+    },
+    
+    {
+        "username": "",
+        "password": "",
+        "message": "Epic sadface: Username is required"
+    },
+    
+    {
+        "username": "standard_user",
+        "password": "",
+        "message": "Epic sadface: Password is required"
+    },
+    
+    {
+        "username": "",
+        "password": "secret_sauce",
+        "message": "Epic sadface: Username is required"
+    }
+]
